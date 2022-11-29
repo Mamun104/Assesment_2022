@@ -23,13 +23,11 @@ public class Setup {
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(30));
 
     }
-
     @AfterTest
     public void closeBrowser() {
 
         driver.quit();
 
     }
-
 
 }
