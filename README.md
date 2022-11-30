@@ -4,8 +4,16 @@ This is an Automation Task provided by Selise for the purpose of hiring process.
 
 # Answers to questions number 1 to 3 are given below : 
 
+https://docs.google.com/document/d/15VKRjqA2rk9t8PWiEMiWGOGC6-0292iSMp8LlAiGcsY/edit?usp=sharing  
+
 
 # Answers to the questions number 4 are given below : 
+
+https://docs.google.com/spreadsheets/d/1IINud6_ThSUdy8Wue8uIJQ8JfStTnxgYK3ufc50tnp0/edit?usp=sharing 
+
+# Screen video for Automation:
+
+https://drive.google.com/drive/folders/1SKDFQ5g1PFpkGfW-EyORs24jmbzOJFXS?usp=sharing  
 
 # Technology:
 
